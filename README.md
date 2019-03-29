@@ -47,14 +47,14 @@ Let's consider a simple arithmetic expression. Keep in mind we apply operators
 in "[PEMDAS][]" order: parenthesis, exponents, multiplication, division,
 addition, subtraction.
 
-| Expression     | Has Operators? | Operators | Are we done? | Which to Apply |
-| ----------     | -------------- | --------- | ------------ | -------------- |
-| 3 * ( 10 - 5 ) | YES            | `*`, `()` | NO           | Zoom-in on new sub-expression in `()` because of PEMDAS|
-| ( 10 - 5 )     | YES            | `-`       | NO           | `-` because of PEMDAS|
-| 5              | NO             | NONE      | YES          | Constant expression! Return the value of the constant, we're done!|
-| 3 * 5          | YES            | `*`       | NO           | Restate with the return value of the inner expression|
-| 3 * 5          | YES            | `*`       | NO           | `*` because of PEMDAS|
-| 15             | NO             | NONE      | YES          | Constant expression! Return the value of the constant, we're done!|
+| Expression       | Has Operators? | Operators | Are we done? | Which to Apply |
+| ---------------- | -------------- | --------- | ------------ | -------------- |
+| `3 * ( 10 - 5 )` | YES            | `*`, `()` | NO           | Zoom-in on new sub-expression in `()` because of PEMDAS|
+| `( 10 - 5 )`     | YES            | `-`       | NO           | `-` because of PEMDAS|
+| `5`              | NO             | NONE      | YES          | Constant expression! Return the value of the constant, we're done!|
+| `3 * 5`          | YES            | `*`       | NO           | Restate with the return value of the inner expression|
+| `3 * 5`          | YES            | `*`       | NO           | `*` because of PEMDAS|
+| `15`             | NO             | NONE      | YES          | Constant expression! Return the value of the constant, we're done!|
 
 > **DEBUGING TIP** This table might remind you of a "proof" from geometry. It
 > shows how to "step into" an expression (or a sub-expression); and
