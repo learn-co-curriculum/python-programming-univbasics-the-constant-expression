@@ -92,7 +92,7 @@ Earth. Shaking. Power.
 From simple "mirroring" you can build to trading "what we call something"
 versus "what you call something."
 
-![Building](http://gph.is/2eY5zh1)
+![Building](https://media.giphy.com/media/3oriOeYGl5MKFtb2FO/source.mp4)
 
 Because of _agreement_ exists, we can _trust_ our conversational partner.  What
 if when we told Ruby `1 + 1`, it returned `3`? Or what if _sometimes_ it
