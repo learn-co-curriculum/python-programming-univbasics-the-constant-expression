@@ -4,7 +4,7 @@
 
 * Identify the _constant expression_
 * Explain how the _constant expression_ stops evaluation
-* Explain how the _constant expressoin_ creates agreement
+* Explain how the _constant expression_ creates agreement
 
 ## Introduction
 
