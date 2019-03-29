@@ -82,7 +82,7 @@ But lets imagine an alien species lands and, in an attempt to communicate, we
 do a series of "mirroring" exercises. The movie "Arrival" covers some of this
 ground:
 
-![Can we match?](https://media.giphy.com/media/3o7TKuQo5VpLLVz6W4/source.mp4)
+![Can we match?](https://gph.is/2eY5zh1)
 
 "Mirroring" establishes "I see what you see" and "I can 'follow' your
 analogies, we can build on this."
@@ -92,7 +92,7 @@ Earth. Shaking. Power.
 From simple "mirroring" you can build to trading "what we call something"
 versus "what you call something."
 
-![Building](https://media.giphy.com/media/3oriOeYGl5MKFtb2FO/source.mp4)
+![Building on matching](https://gph.is/2fNWLJG)
 
 Because of _agreement_ exists, we can _trust_ our conversational partner.  What
 if when we told Ruby `1 + 1`, it returned `3`? Or what if _sometimes_ it
