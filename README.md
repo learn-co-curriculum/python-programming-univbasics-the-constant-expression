@@ -27,7 +27,7 @@ _operators_? That would be an expression like:
 ```
 
 This expression is the _constant expression_ and it's very important, although
-very boring From a programming as conversation perspective, the _constant
+very boring from a programming as conversation perspective, the _constant
 expession_ has the power to create _agreement_ and _trust_. And if it weren't
 for you ability to agree with our conversational partner about basic reality,
 programming would never have been possible!
@@ -47,14 +47,14 @@ Let's consider a simple arithmetic expression. Keep in mind we apply operators
 in "[PEMDAS][]" order: parenthesis, exponents, multiplication, division,
 addition, subtraction.
 
-| Expression | Has Operators? | Operators | Are we done?| Which to Apply |
-| ---------- | -------------- | --------- | ------------| -------------- |
-| 3 * ( 10 - 5 ) | YES | `*`, `()`| NO | Open new sub-expression in `()` because of PEMDAS|
-| ( 10 - 5 )| YES | `-`| NO | `-` because of PEMDAS|
-| 5 | NO | NONE | YES| Constant expression! Return the value of the constant, we're done!|
-| 3 * 5 | YES | NO | Swap in the return value of the inner expression|
-| 3 * 5 | YES | NO | `*` because of PEMDAS|
-| 15 | NO | NONE | Constant expression! Return the value of the constant, we're done!|
+| Expression     | Has Operators? | Operators | Are we done? | Which to Apply |
+| ----------     | -------------- | --------- | ------------ | -------------- |
+| 3 * ( 10 - 5 ) | YES            | `*`, `()` | NO           | Zoom-in on new sub-expression in `()` because of PEMDAS|
+| ( 10 - 5 )     | YES            | `-`       | NO           | `-` because of PEMDAS|
+| 5              | NO             | NONE      | YES          | Constant expression! Return the value of the constant, we're done!|
+| 3 * 5          | YES            | `*`       | NO           | Restate with the return value of the inner expression|
+| 3 * 5          | YES            | `*`       | NO           | `*` because of PEMDAS|
+| 15             | NO             | NONE      | YES          | Constant expression! Return the value of the constant, we're done!|
 
 > **DEBUGING TIP** This table might remind you of a "proof" from geometry. It
 > shows how to "step into" an expression (or a sub-expression); and
@@ -67,7 +67,7 @@ addition, subtraction.
 > `false`. Keep reading!
 
 The _constant expression_ is always the last expression in a complex
-expression. But there's another reason why 
+expression. But there's another reason why
 
 ### Explain how the _constant expressoin_ creates agreement
 
@@ -95,7 +95,7 @@ versus "what you call something."
 ![Building](http://gph.is/2eY5zh1)
 
 Because of _agreement_ exists, we can _trust_ our conversational partner.  What
-if when we told Ruby `1 + 1`, it returned `3`. Or what if _sometimes_ it
+if when we told Ruby `1 + 1`, it returned `3`? Or what if _sometimes_ it
 returned `99` and other times `2.12`. How could we have agreement and trust
 then? Shakespeare even played with the necessity of _agreement_
 
