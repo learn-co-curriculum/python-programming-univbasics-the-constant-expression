@@ -22,7 +22,7 @@ What if we were to make an expression that had no _variables_, since we haven't
 learned about them yet (but will soon!). What if it _also_ didn't have
 _operators_? That would be an expression like:
 
-```ruby
+```Python
 42
 ```
 
@@ -39,9 +39,9 @@ _return value_ is the same as the constants.
 
 ## Importance of the _Constant Expression_
 
-### Explain how the _constant expression_ stops evaluation
+### Explain How the _Constant Expression_ Stops Evaluation
 
-This _expression_ is important because it tells Ruby _when to stop_.
+This _expression_ is important because it tells Python _when to stop_.
 
 Let's consider a simple arithmetic expression. Keep in mind we apply operators
 in "[PEMDAS][]" order: parenthesis, exponents, multiplication, division,
@@ -69,9 +69,9 @@ addition, subtraction.
 The _constant expression_ is always the last expression in a complex
 expression. But there's another reason why
 
-### Explain how the _constant expressoin_ creates agreement
+### Explain How the _Constant Expressoin_ Creates Agreement
 
-Open up IRB and give a _constant expression_ to Ruby.
+Open up the Python interpreter and give a _constant expression_ to Python.
 
 (animation)
 
@@ -95,7 +95,7 @@ versus "what you call something."
 ![Building on matching](https://media.giphy.com/media/3oriOeYGl5MKFtb2FO/giphy.gif)
 
 Because of _agreement_ exists, we can _trust_ our conversational partner.  What
-if when we told Ruby `1 + 1`, it returned `3`? Or what if _sometimes_ it
+if when we told Python `1 + 1`, it returned `3`? Or what if _sometimes_ it
 returned `99` and other times `2.12`. How could we have agreement and trust
 then? Shakespeare even played with the necessity of _agreement_
 
@@ -105,14 +105,14 @@ then? Shakespeare even played with the necessity of _agreement_
 
 &mdash; Shakespeare "Taming of the Shrew" Act IV, Scene V
 
-We _need_ agreement. Ruby's evaluation of the simple constant expression agrees
-with ours, and we will build all programming we ever learn from this
+We _need_ agreement. Python's evaluation of the simple constant expression
+agrees with ours, and we will build all programming we ever learn from this
 foundation.
 
 ## Conclusion
 
 While the _constant expression_ might seem dull, it is the foundation of
-communication with other intelligences, including Ruby. It lets us know when
+communication with other intelligences, including Python. It lets us know when
 expression evaluation is done, lets us be sure that we and the machine "agree,"
 _and_ establishes a groundwork for all the following expressions.
 
